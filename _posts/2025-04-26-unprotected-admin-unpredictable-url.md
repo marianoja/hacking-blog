@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lab: Unprotected Admin Functionality with Unpredictable URL"
-date: 2025-04-25 06:00:00 +0000
+date: 2025-04-26 21:00:00 +0000
 ---
 
 ## 🧪 Lab: Unprotected Admin Functionality with Unpredictable URL
