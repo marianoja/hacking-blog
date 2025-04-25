@@ -46,9 +46,9 @@ The objective of this lab is to identify and exploit an unprotected admin interf
 
 ### 🧠 Takeaways
 
-- **robots.txt** es para indexación, **no** es un control de seguridad.
-- Todo admin panel **debe** protegerse con autenticación y RBAC.
-- Un fallo tan sencillo puede tener impacto crítico en producción.
+- **robots.txt** is for indexing, it is **not** a security check.
+- All admin panel **must be** protected with authentication and RBAC.
+- Such a simple failure can have a critical impact on production..
 
 ---
 
@@ -59,9 +59,3 @@ _Reported by Mariano | <https://marianoja.github.io/hacking-blog/>_
 ## 📝 References
 
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security-academy)
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
-- [OWASP ZAP](https://www.owasp.org/index.php/OWASP_ZAP_Project)
-- [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/)
-- [OWASP Dependency Check - Maven Plugin](https://github.com/owasp/dependency-check-maven)
-- [OWASP Dependency Check - Gradle Plugin](https://github.com/OWASP/dependency-check-gradle)
-- [OWASP Dependency Check - Gradle Plugin](https://github.com/
